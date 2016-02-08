@@ -21,7 +21,7 @@ the tutorial by reading the
 
 	$ node server 
 
-(https://github.com/jsumners/njs-di-example/blob/master/server.js)
+(https://github.com/smileofninja/nodejs-ioc-electrolyte-hapi/blob/master/server.js)
 
 
 # License
