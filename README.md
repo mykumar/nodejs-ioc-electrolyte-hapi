@@ -8,6 +8,9 @@ and
 [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
 patterns in a typical [Node.js](http://nodejs.org/) web service application.
 
+[Hapi.js](http://hapijs.com/) is framework for building applications and services.
+Hapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure.
+
 ## Install
 
     $ npm install 
